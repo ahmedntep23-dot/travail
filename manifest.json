@@ -1,0 +1,9 @@
+{
+  "name": "FastJob237",
+  "short_name": "FastJob",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a7cff",
+  "icons": []
+}

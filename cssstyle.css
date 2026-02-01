@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+header {
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  padding: 15px;
+  margin: 10px 0;
+  text-align: center;
+  background: #0a7cff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.secondary {
+  background: #444;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 6px;
+}
+
+.highlight {
+  border: 2px solid gold;
+}
